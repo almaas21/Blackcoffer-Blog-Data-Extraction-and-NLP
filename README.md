@@ -1,5 +1,5 @@
 # Blackcoffer-Blog-Data-Extraction-and-NLP
-The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. Input.xlsx For each of the articles, given in the input.xlsx file, extract the article text and save the extracted article in a text file with URL_ID as its file name. 
+The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are mentioned in Objective.doc. Input.xlsx For each of the articles, given in the input.xlsx file, extract the article text and save the extracted article in a text file with URL_ID as its file name. 
 
 Locate the BlackCoffer Assigment.py file in the provided directory. Execute the script using a Python interpreter. This can typically be done by opening a command-line interface or terminal, navigating to the directory containing the script, and entering the command: python BlackCoffer Assigment.py
 
